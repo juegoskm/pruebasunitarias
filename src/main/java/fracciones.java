@@ -9,6 +9,8 @@ int numerador, denominador;
         this.denominador = nominador;
     }
 
+    
+
 
     public int getNumerador() {
         return numerador;
